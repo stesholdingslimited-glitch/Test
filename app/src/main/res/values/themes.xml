@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme: plain Material3 defaults, no custom branding/colour scheme. -->
+    <style name="Theme.SnaggingReport" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
